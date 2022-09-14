@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Until The EU",
+    "slug": "untiltheeu",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/appicon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mahirdaiyan.untiltheeu"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appicon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mahirdaiyan.untiltheeu"
+    },
+    "web": {
+      "favicon": "./assets/appicon.png"
+    }
+  }
+}
